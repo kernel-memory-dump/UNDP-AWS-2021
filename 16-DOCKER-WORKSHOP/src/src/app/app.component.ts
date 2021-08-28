@@ -14,6 +14,6 @@ export class AppComponent {
     const z = 5;
 
     const y = 3;
-    return x + y;
+    return x + y + z;
   }
 }
