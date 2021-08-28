@@ -11,6 +11,8 @@ export class AppComponent {
   someMethod() {
     const x = 2;
 
+    const z = 5;
+
     const y = 3;
     return x + y;
   }
