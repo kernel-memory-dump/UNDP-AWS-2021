@@ -1,5 +1,5 @@
 DOCKER_USERNAME="kernelmemorydump2"
-DOCKER_PASSWORD="j5rwLX,~K-9~JW_"
+DOCKER_PASSWORD=""
 # exit when any command fails
 set -e
 
