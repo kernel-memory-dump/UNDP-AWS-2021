@@ -8,11 +8,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Tour of Heroes';
 
-  unused;
-
   someMethod() {
     const x = 2;
 
     const y = 3;
+    return x + y;
   }
 }
