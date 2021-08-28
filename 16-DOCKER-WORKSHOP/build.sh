@@ -1,5 +1,5 @@
 DOCKER_USERNAME="kernelmemorydump2"
-DOCKER_PASSWORD=""
+#OCKER_PASSWORD=""  SET THIS AS AN ENV VARIABLE PLS and export it
 # exit when any command fails
 set -e
 
