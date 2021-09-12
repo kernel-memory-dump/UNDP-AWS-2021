@@ -14,7 +14,8 @@ COPY ./src/ /usr/local/app/
 # Install all the dependencies inside the container
 RUN npm install
 
-# CHECK code quality 
+# if the code the code is 'bad'
+# 'bad'
 RUN npm run lint
 #RUN npm run test
 

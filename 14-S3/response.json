@@ -1,0 +1,17 @@
+{
+    "ResponseMetadata": {
+        "RequestId": "VVJZYHERFNAZGQ40",
+        "HostId": "gZBAZZ8J/BCC5SyKgaZf1iNn89OLNiBatOaFNL0TSo7HUq4K09/+OtOqFjUMy60H05bR7R+JAHk=",
+        "HTTPStatusCode": 200
+    },
+     "HTTPHeaders": {
+            "x-amz-id-2": "gZBAZZ8J/BCC5SyKgaZf1iNn89OLNiBatOaFNL0TSo7HUq4K09/+OtOqFjUMy60H05bR7R+JAHk=",
+            "x-amz-request-id": "VVJZYHERFNAZGQ40",
+            "date": "Sat,21 Aug 2021 13: 33: 07 GMT",
+             "etag": "e35b8ee52e7ef0c8f2e0753d554b851e",
+            "server": "AmazonS3",
+            "content-length": "0"
+    },
+    "RetryAttempts": 0,
+    "ETag": "e35b8ee52e7ef0c8f2e0753d554b851e"
+}

@@ -1,0 +1,70 @@
+CONTINOUS INTEGRATION 
+
+CI 
+Perform stuff when stuff on git changes 
+
+DO STUFF when stuff on git changes 
+
+steps are ORDERED 
+1) checks the quality of the code 
+
+if (condition) {
+   print()
+   printSOmethingElse()
+}
+
+# if code bad , then reject changes 
+
+
+class Person {
+
+    consturctor() {
+        hello();
+    }
+
+    hello() {
+        throw Error("because reasons")
+    }
+
+
+
+}
+
+# the function only work with NEGATIVE numbers
+# for non-negative numbers,IT HAS TO RETURN 0
+function Add(int a,int b) {
+    if (a < 0 && b < 0) {
+        return a + b;
+    }
+    return 1;
+}
+
+Main() {
+   var result1 =  Add(-1, 1);
+   Console.WriteLine(result1); 
+   listOfErrorrs = new List<string>()
+   if (result1 != 0) {
+       listOfErrorrs.Add("The code is nopt woring cirekkkrkrkeker")
+   }
+
+   if (listOffers.Empty) {
+       ALL OK
+   } else {
+       //report that the test failed 
+       // and the list of errors is: listOfErrorrs
+   }
+}
+
+Console
+======================
+1
+
+
+
+
+1) Run tests , it can be buggy , fragile 
+
+
+
+2) Have steps that if any fail, all fail
+3) It can have Env variable
